@@ -1,5 +1,5 @@
-cat > README.md << 'EOF'
-# PrivateAI_acessible: Ollama + WebUI Simples e Seguro
+
+# AI_local_acessivel Ollama + WebUI Simples e Seguro
 
 Stack 100% local, simples e acessível, para rodar IA generativa sem custo de API e sem necessidade de conexão.
 
