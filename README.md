@@ -3,11 +3,11 @@
 
 Stack 100% local, simples e acessível, para rodar IA generativa sem custo de API e sem necessidade de conexão.
 
-Ideal para situações em que não há disponibilidade de rede, que exigem privacidade, segurança ou poucos recursos financeiros — incluindo rodar LLaMA 3.2 (3B) em CPU comum.
+Ideal para situações em que não há disponibilidade de rede ou para pessoas e instituições com poucos recursos financeiros ou requisitos de segurança — incluindo a possibilidade de rodar o os mais diversos momoswloa em uma CPU comum.
 
 ## Por que este projeto?
 
-- **Acessibilidade**: Tenha uma IA local que funciona mesmo sem internet, acessível para diversos usos (estudos, marketing, negócios, prototipagem).
+- **Acessibilidade**: Tenha uma IA local que funciona mesmo sem internet, acessível para múltiplos usos — estudos, marketing, negócios ou prototipagem.
 - **Privacidade**: Tudo roda local, nenhum dado enviado para nuvem.
 - **Zero custo de API**: Só é preciso baixar o modelo uma vez; depois, o uso é ilimitado.
 - **Simplicidade**: Um comando (`docker compose up -d`) e você já tem um “ChatGPT local” pronto.
