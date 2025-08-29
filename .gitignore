@@ -1,0 +1,26 @@
+# Docker
+*.log
+docker-compose.yml.bak
+
+# Volumes do Docker
+ollama/
+open-webui/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Arquivos de build ou cache
+__pycache__/
+*.pyc
+node_modules/
+
+# Arquivos de configuração locais
+.env
+*.local
+
+# Outros
+.DS_Store
+*.bak
+*.backup
