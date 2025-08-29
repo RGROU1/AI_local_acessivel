@@ -1,5 +1,5 @@
 
-# AI_local_acessivel: Ollama + WebUI + Doker
+# ai_local_acessivel: Ollama + WebUI + Doker
 
 Stack 100% local, simples e acessível, para rodar IA generativa sem custo de API e sem necessidade de conexão.
 
