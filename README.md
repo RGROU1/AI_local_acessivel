@@ -1,4 +1,4 @@
-# IA Local Acessível (Zero Custo de API) – Ollama + Open WebUI
+# PrivateAI: Ollama + WebUI Simples e Seguro
 
 Stack **100% local**, simples e acessível, para rodar **IA generativa** sem custo de API e **sem necessidade de conexão**.  
 
