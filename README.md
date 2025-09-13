@@ -3,7 +3,7 @@
 
 Stack 100% local, simples e acessível, para rodar IA generativa sem custo de API e sem necessidade de conexão.
 
-Ideal para situações em que não há disponibilidade de rede ou para pessoas e instituições com poucos recursos financeiros ou requisitos de segurança — incluindo a possibilidade de rodar o os mais diversos momoswloa em uma CPU comum.
+O projeto, por mais simples que seja, tem um propósito democrático: atender pessoas e instituições com poucos recursos financeiros ou que precisam cumprir requisitos de segurança — inclusive possibilitando a execução de diversos modelos em uma CPU comum.
 
 ## Por que este projeto?
 
